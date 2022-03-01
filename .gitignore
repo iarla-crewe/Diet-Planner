@@ -1,3 +1,12 @@
+# Google API Ignore
+/src/google_credentials/credentials.json
+/src/google_credentials/token.json
+
+
+
+
+### Python Git Ignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
